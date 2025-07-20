@@ -1,0 +1,1 @@
+This is a simple, modern digital clock built with HTML, CSS, and JavaScript. It displays the current time in HH:MM:SS format, updating every second in real-time. The design is responsive and styled with Flexbox to center the clock on the screen, making it ideal for both desktop and mobile displays.
